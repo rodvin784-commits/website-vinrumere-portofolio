@@ -366,7 +366,7 @@ section {
 
 .contact .content .row .card {
   background: #fff;
-  width: 200px;
+  width: 189px;
   margin: 20px;
   padding: 25px;
   display: flex;
@@ -585,4 +585,5 @@ section {
     grid-template-columns: 1fr; /* jadi 1 kolom */
   }
 }
+
 
